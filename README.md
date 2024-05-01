@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="Logo.png">
-</p>
 
 # 📊 Udemy Courses Analysis Project 📊
 
